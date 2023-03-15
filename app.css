@@ -1,0 +1,18 @@
+body {
+    background-color: #FDFCDC;
+}
+
+.intro-image {
+    width: 700px;
+    height: auto;
+}
+
+h1,
+h2 {
+    background-color: #FED9B7;
+    text-align: center;
+}
+
+.intro-section {
+    background-color: #00AFB9;
+}
