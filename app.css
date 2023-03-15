@@ -1,23 +1,56 @@
 body {
-    background-color: #FDFCDC;
+    background-color: #FED9B7;
+    font-family: 'Palanquin', sans-serif;
 }
 
 .intro-image {
     width: 700px;
     height: auto;
+    border: thick double #F03A47;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1,
 h2 {
-    background-color: #FED9B7;
+    background-color: #54494B;
     text-align: center;
+    color: #cfc4c5;
+    font-weight: 700;
 }
 
 .intro-section {
-    background-color: #00AFB9;
+    background-color: #a4c3d8;
+    border: solid #54494B;
+    border-radius: 15%;
 }
 
+.intro-text {
+    font-size: 20px;
+}
+
+.list-image {
+    width: 200px;
+    height: auto;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+    /* color: #F03A47; */
+    border: solid #54494B;
+    border-radius: 5%;
+
+}
+
+.food-item {
+    padding: 1em 0 0;
+    color: #F03A47;
+    /* display: inline; */
+}
 
 /* Color palette:
-https://coolors.co/palette/0081a7-00afb9-fdfcdc-fed9b7-f07167
+https://coolors.co/eac8ca-98dfea-54494b-f03a47-c8e9a0
 */
